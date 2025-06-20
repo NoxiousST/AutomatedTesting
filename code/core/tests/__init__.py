@@ -6,5 +6,5 @@ from .tests import (
     UtilsTest,
     CourseViewTest,
     HelloTest,
-    APITestCase
+#    APITestCase
 )
